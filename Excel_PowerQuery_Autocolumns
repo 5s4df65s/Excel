@@ -1,3 +1,4 @@
+\\Excel Power query 动态获取列代码
 let
     源 = Folder.Files("C:\Users\LZBHZQ\Desktop\临时文件\0_DATA"),
     删除的其他列 = Table.SelectColumns(源,{"Content"}),
