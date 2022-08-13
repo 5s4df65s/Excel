@@ -1,1 +1,1 @@
-# Excel_PowerQuery_Autocolumns
+# Excel code files
